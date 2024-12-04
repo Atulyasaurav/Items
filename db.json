@@ -1,5 +1,7 @@
 {
-  "idCard":[{"id":1,"place":"23-433"}],
-  "charger":[{"id":1,"place":"23-433"}],
-  "bottel":[{"id":1,"place":"23-433"}]
+  "idCard":[{"id":1,"place":"23-433","contact":"00000000","url":"none","status":"none","des":"collect from me"}],
+  "charger":[{"id":1,"place":"23-433","contact":"00000000","url":"none","status":"none","des":"collect from me"}],
+  "bottel":[{"id":1,"place":"23-433","contact":"00000000","url":"none","status":"none","des":"collect from me"}],
+  "earBud":[{"id":1,"place":"23-433","contact":"00000000","url":"none","status":"none","des":"collect from me"}],
+  "other":[{"id":1,"place":"23-433","contact":"00000000","url":"none","status":"none","des":"collect from me"}]
 }
