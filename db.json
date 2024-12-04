@@ -1,5 +1,5 @@
 {
-  "idCard":[],
-  "charger":[],
-  "bottel":[]
+  "idCard":[{"id":1,"place":"23-433"}],
+  "charger":[{"id":1,"place":"23-433"}],
+  "bottel":[{"id":1,"place":"23-433"}]
 }
